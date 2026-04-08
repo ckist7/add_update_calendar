@@ -3,13 +3,13 @@
 A project to create an update calendar that will auto-generate tickets in UV Desk that future students will use to keep the server environment and all of its applications updated.
 Project Identification • Project Title: Set Up Rack Server Host Alerts from Grafana to the Discord Server • Course: CPT 298-01 Capstone • Term: 2025-2026 Spring Semester • Student Name: Chris Kist, Aaron • Primary Contact: Christian.kist@mainecc.edu • Proposed Start Date: 4/10/2026 • Proposed End Date: 5/8/2026
 
-Project Selection & Motivation • This project will give us a chance to utilize our research skills and implementation of what we know. We will ask for some guidance and structure as it is not fully developed yet. 
+Project Selection & Motivation • This project will give us a chance to utilize our research skills and implementation of what we know. We will ask for some guidance and structure as it is not fully developed yet. This will need some scriptwork done and API integration with UVDesk in order to achieve out goal.
 
 Problem Statement • Right now, the tickets in UVDesk are manually input. This feature will auto generate tickets based off incoming information in the classes that the professor has. 
 
 Proposed Solution Overview • We will design the update calender for future implementation into the UVDesk to auto-generate tickets based off the needs to keep the applications and the server environment running.
 
-Technical Stack & Tools • Operating System(s): N/A • Programming Language:N/A • Frameworks/Libraries:UVDesk  • Databases/Storage:N/A • Infrastructure:N/A • Tools:Documentation standars (Word, Google Docs)
+Technical Stack & Tools • Operating System(s): N/A • Programming Language:N/A • Frameworks/Libraries:UVDesk  • Databases/Storage:N/A • Infrastructure:N/A • Tools:Scripting and API integreation with UVDesk, Documentation standards (Word, Google Docs)
 
 Prerequisite Knowledge & Skills • Will research the requirements for creating the Update Calender
 
